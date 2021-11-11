@@ -13,3 +13,7 @@ ID records the id of each element, name keeps the semantic of the element (e.g.,
 QR code location determination is used for computing the locations of QR codes. Location determination of Dummy nodes is designed for determining the locations of dummy nodes. Navigation network derivation is employed to construct the indoor navigation network on the basis of Poincare duality.
 
 The file (.gh) integrates all the functions together to finish the whole process, in which the data sources are shapefiles.
+
+Bondi-20201125.3dm is the file for Rhinoceros, which is empty originally. After running the FD-path planning.gh, you will see the results in the Rhinoceros. 
+
+The zip file named 02 - ShapeFiles.zip contains all the shapefiles of the building used for test.
